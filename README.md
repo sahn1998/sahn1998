@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sung Ahn
 
 🎓 **Data Science M.S. Candidate @ Seattle University (Class of 2026)**  
-🎓 **B.S. Physiology @ University of Washington (Class of 2020)**
+🎓 **B.S. Physiology @ University of Washington (Class of 2020)** <br>
 💼 Background in Analytics, Business Operations, and Regulatory Affairs  
 🌍 Bilingual: English & Korean  
 📍 Based in the U.S. (Seattle) | Originally from South Korea
