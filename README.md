@@ -15,7 +15,7 @@ I enjoy working at the intersection of **data, people, and impact** whether it�
 
 ---
 
-## 🛠️ Technical Toolbox
+## 🛠️ Technical Skills
 
 - **Languages:** Python, SQL, TypeScript, JavaScript  
 - **Libraries & Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, React  
