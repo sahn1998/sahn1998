@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a data scientist / data analyst with a foundation in **human physiology** and a passion for solving real-world problems using data. I bring a experience from the **healthcare** and **consulting** industries, where I've optimized processes, led cross-functional teams, and built actionable data solutions for petroleum, energy, and defense sectors.
+I'm a data scientist / data analyst with a foundation in health sciences and a passion for solving real-world problems using data. I bring a experience from the **healthcare** and **consulting** industries, where I've optimized processes, led cross-functional teams, and built actionable data solutions for petroleum, energy, and defense sectors.
 
 I enjoy working at the intersection of **data, people, and impact** whether it’s building interpretable ML models for healthcare or improving document workflows in enterprise settings.
 
