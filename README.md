@@ -7,7 +7,7 @@
 
 ---
 
-## About Me
+## 🎓 About Me
 
 I’m an ML Engineer and Data Science graduate student with a background in **ESG, health care, and operations**. I'm passionate about using data and machine learning models (RNN, CNN, LLM, RAG) to drive real-world impact. 
 My work spans from **clinical ML research** to **ESG & chemical safety analytics**, combining technical depth with stakeholder collaboration.
@@ -16,7 +16,7 @@ Whether I'm building machine learning (TL) pipelines for risk prediction or desi
 
 ---
 
-## Technical Skills
+## 🧑‍🎓 Technical Skills
 
 - **Programming**: Python, SQL, R, TypeScript  
 - **Libraries/Frameworks**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, React  
@@ -31,7 +31,7 @@ Whether I'm building machine learning (TL) pipelines for risk prediction or desi
 
 ---
 
-## Experience Highlights
+## 🚩 Experience Highlights
 
 ### Graduate Research Assistant, Seattle University  
 *Jan 2025 – Present*  
@@ -54,7 +54,7 @@ Whether I'm building machine learning (TL) pipelines for risk prediction or desi
 
 ---
 
-## Selected Projects
+## 📝 Selected Projects
 
 ### Asthma Risk Prediction from Tabular-CNN Pipeline (Graduate Research) 
 *TensorFlow, MobileNetV2, Jetstream2*  
